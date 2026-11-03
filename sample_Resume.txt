@@ -1,0 +1,15 @@
+Riya Mehta | B.Tech CSE, 3rd year | Odyssey Institute of Technology
+
+SKILLS
+Python, C++, Git, HTML/CSS, basic SQL
+
+PROJECTS
+UniBot: built a college helpdesk chatbot using RAG with Groq, ChromaDB
+and Streamlit. Answers questions from 4 college PDFs with sources.
+Expense Tracker: a Flask web app to log daily expenses, with charts.
+
+EXPERIENCE
+Volunteer, college tech fest: managed registrations for 300 students.
+
+ACHIEVEMENTS
+Top 10 in the college hackathon (2025).

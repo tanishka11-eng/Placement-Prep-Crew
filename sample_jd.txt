@@ -1,0 +1,13 @@
+AI Engineer Intern - Pragati Labs (fictional company)
+
+We are looking for an intern to help build LLM features for our product.
+
+Requirements:
+- Strong Python
+- Experience with LLM APIs and RAG
+- Building REST APIs with FastAPI
+- SQL and working with databases
+- Docker basics
+- Git
+
+Nice to have: evaluation of LLM outputs, cloud deployment.
