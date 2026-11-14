@@ -1,10 +1,10 @@
-# 🚀 Placement Prep Crew v2
+# Placement Prep Crew v2
 
 ### An AI-Powered Placement Preparation System
 
 Placement Prep Crew is an AI-powered multi-agent system designed to help college students prepare for job placements. It uses seven specialized AI agents to analyze resumes, identify skill gaps, prepare students for interviews, generate study plans, and recommend relevant projects.
 
-## ✨ Features – 7 AI Agents
+## Features – 7 AI Agents
 
 | Agent                  | Functionality                                                     |
 | ---------------------- | ----------------------------------------------------------------- |
@@ -16,7 +16,7 @@ Placement Prep Crew is an AI-powered multi-agent system designed to help college
 | 6. HR Interview Coach  | Generates HR interview questions and sample answers.              |
 | 7. Project Recommender | Suggests relevant projects, tech stacks and development roadmaps. |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Groq API
@@ -24,7 +24,7 @@ Placement Prep Crew is an AI-powered multi-agent system designed to help college
 * AI Agents
 * PDF Processing
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -76,7 +76,7 @@ Never upload your actual API key to GitHub.
 streamlit run app_v2.py
 ```
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Upload your resume in PDF format.
 2. Enter the target job description.
@@ -87,11 +87,11 @@ streamlit run app_v2.py
 7. Get a customized cover letter.
 8. Explore relevant project recommendations.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective is to simplify and improve placement preparation by providing students with AI-powered guidance through multiple specialized agents in a single application.
 
-## 👩‍💻 Developer
+##  Developer
 
 **Tanishka Sharma**
 
@@ -99,4 +99,4 @@ GitHub: [tanishka11-eng](https://github.com/tanishka11-eng)
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
+ If you find this project useful, consider giving it a star!
